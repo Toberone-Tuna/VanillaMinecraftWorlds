@@ -8,3 +8,5 @@ To download, go to Code>Download ZIP to get a zipped file with the world folder 
 **Last Played:** December 26, 2021
 
 **Minecraft Version:** 1.17.1
+
+**World Size:** 4.00 GB
