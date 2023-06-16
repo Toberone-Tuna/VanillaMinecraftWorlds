@@ -8,3 +8,5 @@ To download, go to Code>Download ZIP to get a zipped file with the world folder 
 **Last Played:** August 2020
 
 **Minecraft Version:** 1.16.4
+
+**World Size:** 1.16 GB
