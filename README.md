@@ -8,3 +8,5 @@ To download, go to Code>Download ZIP to get a zipped file with the world folder 
 **Last Played:** Late 2019
 
 **Minecraft Version:** 1.14.4
+
+**World Size:** 561 MB
