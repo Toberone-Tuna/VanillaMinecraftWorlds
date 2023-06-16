@@ -6,3 +6,5 @@ To download, go to Code>Download ZIP to get a zipped file with the world folder 
 **Last Played:** 2015
 
 **Minecraft Version:** 1.9
+
+**World Size:** 78.2 MB
