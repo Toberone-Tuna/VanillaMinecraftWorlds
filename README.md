@@ -10,3 +10,5 @@ To download, go to Code>Download ZIP to get a zipped file with the world folder 
 **Minecraft Version:** 1.16.4
 
 **World Size:** 1.16 GB
+
+**Note:** The world may not fully download through the web browser due to the large size. If the world size after unzipping is not equal to 1.16 GB, it is not the full world. In that case, you will have to use GitHub Desktop or another Git program to clone the repository.
